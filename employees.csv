@@ -1,0 +1,57 @@
+Absolutely. I can provide it in CSV format for Excel or Google Sheets.
+
+```
+Employee Name,Salary,Department
+James Anderson,72500,Finance
+Olivia Bennett,68000,Human Resources
+Liam Carter,85000,IT
+Emma Davis,74500,Marketing
+Noah Edwards,91000,IT
+Ava Foster,63500,Sales
+William Garcia,79000,Finance
+Sophia Harris,71500,Human Resources
+Benjamin Johnson,88500,IT
+Isabella King,67000,Marketing
+Lucas Lewis,76500,Sales
+Mia Martin,82000,Finance
+Henry Mitchell,95000,IT
+Charlotte Moore,69500,Human Resources
+Alexander Nelson,73000,Sales
+Amelia Parker,78500,Marketing
+Daniel Roberts,87000,Finance
+Harper Robinson,66500,Human Resources
+Matthew Scott,92000,IT
+Evelyn Taylor,75000,Marketing
+Samuel Thompson,81500,Sales
+Abigail Walker,70000,Finance
+David White,89500,IT
+Emily Wilson,64500,Human Resources
+Joseph Young,77000,Sales
+Ella Adams,83500,Marketing
+Michael Baker,94000,Finance
+Grace Clark,68500,Human Resources
+Christopher Collins,86000,IT
+Lily Cook,72000,Marketing
+Andrew Cooper,79500,Sales
+Scarlett Cox,84000,Finance
+Joshua Green,90500,IT
+Victoria Hall,65000,Human Resources
+Ryan Hill,74000,Sales
+Aria Hughes,80000,Marketing
+Nathan Kelly,93000,Finance
+Chloe Lee,67500,Human Resources
+Thomas Morris,88000,IT
+Zoey Murphy,76000,Marketing
+Charles Peterson,82500,Sales
+Nora Phillips,71000,Finance
+Jonathan Rivera,96000,IT
+Hannah Rogers,69000,Human Resources
+Anthony Sanders,78000,Sales
+Layla Stewart,85500,Marketing
+Robert Turner,91500,Finance
+Ellie Ward,73500,Human Resources
+Nicholas Watson,87500,IT
+Audrey Wood,70500,Marketing
+```
+
+ **To download it:** copy the CSV above into Notepad/TextEdit and save the file as **`employees.csv`**. It will open directly in Excel or Google Sheets.
