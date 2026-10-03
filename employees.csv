@@ -1,6 +1,3 @@
-Absolutely. I can provide it in CSV format for Excel or Google Sheets.
-
-```
 Employee Name,Salary,Department
 James Anderson,72500,Finance
 Olivia Bennett,68000,Human Resources
@@ -52,6 +49,3 @@ Robert Turner,91500,Finance
 Ellie Ward,73500,Human Resources
 Nicholas Watson,87500,IT
 Audrey Wood,70500,Marketing
-```
-
- **To download it:** copy the CSV above into Notepad/TextEdit and save the file as **`employees.csv`**. It will open directly in Excel or Google Sheets.
